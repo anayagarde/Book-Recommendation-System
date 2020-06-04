@@ -1,8 +1,8 @@
 # Book-Recommendation-System
-A Book recommnedaion System using:
-  1.K Nearest Neighbour
-  2.Using Correlation
-  3.Based on Popularity(No of Ratings and Ratings sum)
+A Book recommendation System using:
+  1. K Nearest Neighbour
+  2. Using Correlation
+  3. Based on Popularity(No of Ratings and Ratings sum)
   
   
 Dataset used: Book-Crossings 
@@ -10,9 +10,9 @@ Book-Crossings is a book ratings dataset compiled by Cai-Nicolas Ziegler based o
 The Book-Crossings dataset is one of the least dense datasets, and the least dense dataset that has explicit ratings.
 
 The Project includes:
-  1.Importing Libraries and dataset
-  2.Data exploratory Analysis
-  3.Data Visualization
-  4.Simple Popularity based Recommendation System
-  5.Recommending Similar Books using Correlation
-  6.Collaborative Filtering Using KNN
+  1. Importing Libraries and dataset
+  2. Data exploratory Analysis
+  3. Data Visualization
+  4. Simple Popularity based Recommendation System
+  5. Recommending Similar Books using Correlation
+  6. Collaborative Filtering Using KNN
