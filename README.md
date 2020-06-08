@@ -17,3 +17,5 @@ The Project includes:
   4. Simple Popularity based Recommendation System
   5. Recommending Similar Books using Correlation
   6. Collaborative Filtering Using KNN
+
+Implementation includes Item Based Collaborative Filtering.For Item-based CF, we say that two items are similar when they received similar ratings from a same user.Thus we predicted top 5 Books similar to a random chosen Book based on user Ratings.
